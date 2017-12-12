@@ -1,0 +1,22 @@
+{
+  "name": "katas",
+  "version": "1.0.0",
+  "description": "my katas",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenbojian/Katas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenbojian/Katas/issues"
+  },
+  "homepage": "https://github.com/chenbojian/Katas#readme",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
