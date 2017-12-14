@@ -1,4 +1,4 @@
-![](https://travis-ci.org/chenbojian/Katas.svg?branch=master)
+![](https://travis-ci.org/chenbojian/Katas-In-Javascript.svg?branch=master)
 
 # Katas
 my katas
